@@ -1,5 +1,10 @@
 # Sistema-Juego-de-rol
-Siestema basado y credo con el framework de Python Django en su version 4.0.5,  django-environ en su version 0.9.0 , Pillow en su version 9.2.0.
+Siestema basado y credo con:
+    
+    
+    El framework de Python Django en su version 4.0.5 https://pypi.org/project/Django/   
+    django-environ en su version 0.9.0 https://pypi.org/project/django-environ/  
+    Pillow en su version 9.2.0. https://pypi.org/project/Pillow/
 
 
 El sistema se basa en un sistema web en el cual se pueden generar usuarios los cuales pueden crear jugadores con sus respectivas caracteristicas (Tambien pose un usuario de tipo juegador, ya que existen 2 tipos de usuario) y el usuario gameMaster(staff) el posee ciertos requerimientos y no puede realizar ciertas acciones.

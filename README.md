@@ -34,13 +34,31 @@ Instalacion:
 
 
 4- *COMANDOS DE UTILIZACION: 
-              Pueden borrar la base de datos que se encuentra rolgame/rolgame/db.sqlite3 para tener una base de datos limpia.
+              Pueden borrar la base de datos que se encuentra rolgame/rolgame/db.sqlite3 para tener una base de datos limpia
+  
+  
+  
+  
+  
               ** Para realizar verificar todas las migraciones : python manage.py makemigrations
+  
+  
+  
+  
+  
               ** Para realizar migraciones: python manage.py migrate
+  
+  
+  
+  
               ** Para ejecutar el servidor python manage.py runserver
+  
+  
+  
               **para la creacion de super usuarios (Administradores con todos los privilegios) utilice:  django-admin createsuperuser
                (Posterior mente, pidira los campos del modelo abstracto creado en los modelos de la aplicacion.)
 
+  
   
   
  

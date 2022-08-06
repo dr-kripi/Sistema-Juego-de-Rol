@@ -65,8 +65,13 @@ Instalacion:
 
   
  
-5- Requerimientos implicitos del sistemas dados por la empresa ficcticia inifiti creations
-  La empresa Infinity Creations, ha decidido llevar a una pequeña aplicación uno de los más populares juegos de rol. Para eso ha solicitado que se genere una aplicación que permita:
+5- Requerimientos implicitos del sistemas de la empresa creada para proyecto Academico
+  
+  
+
+  
+  
+La empresa Infinity Creations, ha decidido llevar a una pequeña aplicación uno de los más populares juegos de rol. Para eso ha solicitado que se genere una aplicación que permita:
   
   
   

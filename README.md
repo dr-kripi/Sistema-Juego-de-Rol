@@ -11,7 +11,7 @@ El sistema se basa en un sistema web en el cual se pueden generar usuarios los c
 
 
 
-Para su utulizacion son requeridos los parametros necesarios como Pytohn y su gestor de paquetes pip:
+Para su utlizacion son requeridos los parametros necesarios como Python y su gestor de paquetes pip:
 
 Instalacion:
 

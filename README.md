@@ -2,7 +2,7 @@
 Siestema basado y credo con: 
 
 
-#Anotacion (Puede ver el manual de instalacion descargandolo, ya que es formato  pdf) #
+#Anotacion (Puede ver el manual de instalacion y uso descargandolo, ya que es formato  pdf) #
     
     El framework de Python Django en su version 4.0.5 https://pypi.org/project/Django/   
     django-environ en su version 0.9.0 https://pypi.org/project/django-environ/  

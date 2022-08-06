@@ -1,5 +1,5 @@
 # Sistema-Juego-de-rol
-Siestema basado y credo con:
+Siestema basado y credo con: (De cualquier manera tra en un manual de instalacion en formato PDF)
     
     
     El framework de Python Django en su version 4.0.5 https://pypi.org/project/Django/   

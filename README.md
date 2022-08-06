@@ -65,7 +65,7 @@ Instalacion:
 
   
  
-5- Requerimientos implicitos del sistemas de la empresa creada para proyecto Academico
+5- Requerimientos implicitos del sistemas de la empresa creada para proyecto y evaluacion Academica
   
   
 

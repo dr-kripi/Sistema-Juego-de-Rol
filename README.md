@@ -27,11 +27,15 @@ Instalacion:
                           
                                 
 2- Creamos entorno virtual:  Windowns: python -m virtualenv <nombre del entorno>
+
+
                              Ubuntu /Debian: virtualenv <nombre del entorno>
                              
                              
                              
 3- Activamos entorno virtual:  Windows: en la ruta donde se creo el entorno con virtualenv | <nombre del entorno>/Scripts/activate
+
+
                                Ubuntu/Debian: en la ruta donde se creo el entorno con virtualenv | source <nombre del entorno>/bin/activate
                              
                              

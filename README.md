@@ -1,4 +1,4 @@
-# Sistema-Juego-de-rol
+# Sistema-Juego-de-rol (Proyecto Academico)
 Siestema basado y credo con: 
 
 
